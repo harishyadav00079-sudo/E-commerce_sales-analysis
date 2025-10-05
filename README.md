@@ -46,7 +46,7 @@ you can view the interactive dashboard here:
 ---
 
 ## Tableau Dashboard Preview
-[E-commerce Dashboard preview] (https://downloads.tableau.com/public/TableauPublicDesktop-64bit-2025-2-0.exe)
+[E-commerce Dashboard preview] (<img width="1314" height="1739" alt="Dashboard_preview" src="https://github.com/user-attachments/assets/9fd19aa6-b92d-4683-9ac3-d4cb2322124d" />)
 
 ---
 
@@ -59,5 +59,6 @@ you can view the interactive dashboard here:
 
 **Harish Oggu**
 [GitHub Profile] (https://github.com/harishyadav00079-sudo)
+
 
 
