@@ -47,6 +47,7 @@ you can view the interactive dashboard here:
 
 ## Tableau Dashboard Preview
 [E-commerce Dashboard preview] (C:\Users\HARISH\Downloads\Dashboard_preview.png)
+
 ---
 
 ## Tools Used
@@ -58,6 +59,7 @@ you can view the interactive dashboard here:
 
 **Harish Oggu**
 [GitHub Profile] (https://github.com/harishyadav00079-sudo)
+
 
 
 
