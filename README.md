@@ -42,6 +42,22 @@ Key insights discovered:
 ## Tableau Dashboard
 you can view the interactive dashboard here:
 [E-Commerce Sales Dashboard] (https://public.tableau.com/app/profile/oggu.harish/viz/dashboard_preview/Dashboard1?publish=yes)
-[E-commerce Dashboard preview] ( Dashboard_preview.png)
+
+---
+
+## Tableau Dashboard Preview
+[E-commerce Dashboard preview] (https://downloads.tableau.com/public/TableauPublicDesktop-64bit-2025-2-0.exe)
+
+---
+
+## Tools Used
+- **Excel**- Data Cleaning, built charts and Insights
+- **Tableau**- Dashboard Visualization
+- **GitHub**-project portfolio management
+
+---
+
+**Harish Oggu**
+[GitHub Profile] (https://github.com/harishyadav00079-sudo)
 
 
