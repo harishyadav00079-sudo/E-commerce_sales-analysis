@@ -39,9 +39,9 @@ Key insights discovered:
 
 ---
 
-## Next Step
-This analysis will be further expanded using *Tableau* to create an interactive dashboard based on this same dataset.
+## Tableau Dashboard
+you can view the interactive dashboard here:
+[E-Commerce Sales Dashboard] (https://public.tableau.com/app/profile/oggu.harish/viz/dashboard_preview/Dashboard1?publish=yes)
+[E-commerce Dashboard preview] ( Dashboard_preview.png)
 
----
- Created by Harish Oggu
- 05 October 2025
+
